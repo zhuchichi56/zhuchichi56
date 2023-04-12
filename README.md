@@ -16,17 +16,19 @@
 <!-- ![](https://img.shields.io/badge/status-fighting-orange)![](https://img.shields.io/badge/Feeling-Rich%20Life-green)![visitors](https://visitor-badge.glitch.me/badge?page_id=Leo-Adventure_README.md&left_color=&right_color=blue)![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeo-Adventure1212%2Fhit-counter))
 
 
-![Metrics](https://metrics.lecoq.io/Leo-Adventure?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/zhuchichi56?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
  -->
-⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
+⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
 
-🌱 I'm a junior student studying in UC, Berkeley currently, and looking for summer research on machine learning.
+🌱 I'm a junior student studying in SUSTech(Shen Zhen) currently, and looking for summer research on machine learning.
 
-🔭 Interested in Machine Learning, Deep learning and Reinforce Learning, want to explore more!
+🔭 Interested in Machine Learning, Deep learning and Game Theory, want to explore more!
 
-🔭 currently working on updating the resource and code I have learned and implemented in class.
+👯 I’m looking to collaborate on Kaggle Competition... 
 
-🌱 currently learning Machine Learning, Deep Learning, Computer Vision, and Operating System...
+🔭 currently working on updating the resource I have learned and implemented in class.
+
+🌱 currently learning Machine Learning, Deep Learning, Natural language processing, and Operating System...
 
 ⚡ Always looking forward to new things!
 
