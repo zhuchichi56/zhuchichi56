@@ -39,5 +39,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhuchichi56&theme=blue-green)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhuchichi56&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhuchichi56&theme=vue))
