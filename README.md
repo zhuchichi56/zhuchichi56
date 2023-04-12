@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Leo-Adventure;Nice+to+meet+you!)](https://git.io/typing-svg)
 <!--
-**zhuchichi56/zhuchichi56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Leo-Adventure/Leo-Adventure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-Here are some ideas to get you started:
+Here are some important ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://img.shields.io/badge/status-fighting-orange)![](https://img.shields.io/badge/Feeling-Rich%20Life-green)![visitors](https://visitor-badge.glitch.me/badge?page_id=Leo-Adventure_README.md&left_color=&right_color=blue)![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeo-Adventure1212%2Fhit-counter))
+
+
+![Metrics](https://metrics.lecoq.io/Leo-Adventure?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+
+⚡ The way was long, and wrapped in gloom did seem, as I urged on to seek my fantastic dream~
+
+🌱 I'm a junior student studying in UC, Berkeley currently, and looking for summer research on machine learning.
+
+🔭 Interested in Machine Learning, Deep learning and Reinforce Learning, want to explore more!
+
+🔭 currently working on updating the resource and code I have learned and implemented in class.
+
+🌱 currently learning Machine Learning, Deep Learning, Computer Vision, and Operating System...
+
+⚡ Always looking forward to new things!
+
+✨ Thristy for new project...
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Adventure&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leo-Adventure&theme=blue-green)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Leo-Adventure&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![]([https://img.shields.io/badge/status-On%20Summer%20Semester-orange](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo-Adventure&theme=vue))
