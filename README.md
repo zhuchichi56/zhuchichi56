@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+He+Zhu; Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+He+Zhu;Nice+to+meet+you!)](https://git.io/typing-svg)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
