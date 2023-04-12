@@ -24,17 +24,18 @@
 
 🔭 Interested in Machine Learning, Deep learning and Game Theory, want to explore more!
 
-👯 I’m looking to collaborate on Kaggle Competition... 
-
 🔭 currently working on updating the resource I have learned and implemented in class.
 
 🌱 currently learning Machine Learning, Deep Learning, Natural language processing, and Operating System...
 
 ⚡ Always looking forward to new things!
 
+👯 I’m looking to collaborate on Kaggle Competition... 
+
 ✨ Thristy for new project...
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchichi56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuchichi56&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
