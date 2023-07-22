@@ -20,7 +20,7 @@
  -->
 ⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
 
-🌱 I'm a junior student studying in SUSTech(Shen Zhen) currently, and going to Tokoy U for summer research.
+🌱 I'm currently a junior student studying at SUSTech (Shenzhen). I will be going to Tokyo U for summer research.
 
 🔭 Interested in Machine Learning, Deep learning and Game Theory, want to explore more!
 
