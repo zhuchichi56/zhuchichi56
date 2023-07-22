@@ -20,13 +20,13 @@
  -->
 ⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
 
-🌱 I'm a junior student studying in SUSTech(Shen Zhen) currently, and looking for summer research on machine learning.
+🌱 I'm a junior student studying in SUSTech(Shen Zhen) currently, and going to Tokoy U for summer research.
 
 🔭 Interested in Machine Learning, Deep learning and Game Theory, want to explore more!
 
 🔭 currently working on updating the resource I have learned and implemented in class.
 
-🌱 currently learning Machine Learning, Deep Learning, Natural language processing, and Operating System...
+🌱 currently learning Machine Learning, Deep Learning, Natural language processing, and Large Language Model(LLM)...
 
 ⚡ Always looking forward to new things!
 
