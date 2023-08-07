@@ -22,7 +22,7 @@
 
 🌱 I'm currently a junior student studying at SUSTech (Shenzhen). I will be going to Tokyo U for summer research.
 
-🔭 Interested in Machine Learning, Deep learning and Game Theory, want to explore more!
+🔭 Interested in Janpanese, Machine Learning, Deep learning and Game Theory, want to explore more!
 
 🔭 currently working on updating the resource I have learned and implemented in class.
 
