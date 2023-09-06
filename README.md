@@ -20,15 +20,11 @@
  -->
 ⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
 
-🌱 I'm currently a junior student studying at SUSTech (Shenzhen). I will be going to Tokyo U for summer research.
+🌱 I'm currently a junior student studying at SUSTech (Shenzhen). I will be going to PKU for MPhil degree.
 
-🔭 Interested in Japanese, Machine Learning, Deep learning and Game Theory, want to explore more!
+🔭 Interested in Causality Inference, Game Theory, Machine Learning and HPC, want to explore more!
 
-🔭 currently working on updating the resource I have learned and implemented in class.
-
-🌱 currently learning Machine Learning, Deep Learning, Natural language processing, and Large Language Model(LLM)...
-
-⚡ Always looking forward to new things!
+🌱 currently dive into summer research on UTokyo...
 
 👯 I’m looking to collaborate on Kaggle Competition... 
 
