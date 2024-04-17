@@ -21,11 +21,11 @@
 
 🌱 I'm currently a junior student studying at SUSTech (Shenzhen). I will be going to PKU for MPhil degree.
 
-🔭 Interested in Causality Inference, Game Theory, Machine Learning and HPC, want to explore more!
+🔭 Interested in Large Model, Urban Computing, Machine Learning and HPC, want to explore more!
 
-🌱 currently dive into summer research on UTokyo...
+🌱 currently dive into research about LLM & LVM. 
 
-👯 I’m looking to collaborate on Kaggle Competition... 
+👯 I’m looking to collaborate on Research corporation...
 
 ✨ Thristy for new project...
 
