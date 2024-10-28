@@ -19,11 +19,9 @@
  -->
 ⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
 
-🌱 I'm currently a junior student studying at SUSTech (Shenzhen). I will be going to PKU for MPhil degree.
+🌱 I am a first-year MPhil student at Peking University, having obtained my bachelor's degree from SUSTech.
 
-🔭 Interested in Large Model, Urban Computing, Machine Learning and HPC, want to explore more!
-
-🌱 currently dive into research about LLM & LVM. 
+🔭 I am exploring Large Language Models, focusing on weak to strong, data engineering, and alignment for human.
 
 👯 I’m looking to collaborate on Research corporation...
 
