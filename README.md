@@ -19,7 +19,7 @@
  -->
 ⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
 
-🌱 I am a first-year MPhil student at Peking University, having obtained my bachelor's degree from SUSTech.
+🌱 I am a second-year MPhil student at Peking University, having obtained my bachelor's degree from SUSTech.
 
 🔭 I am exploring Large Language Models, focusing on weak to strong, data engineering, and alignment for human.
 
