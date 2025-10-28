@@ -23,6 +23,8 @@
 
 🔭 I am exploring Large Language Models, focusing on weak to strong, data engineering, and alignment for human.
 
+💼 I have worked as a research assistant at Microsoft Research Asia (MSRA), SenseTime Research, and Shanghai AI Lab.
+
 👯 I’m looking to collaborate on Research corporation...
 
 ✨ Thristy for new project...
