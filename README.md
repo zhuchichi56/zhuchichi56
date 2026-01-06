@@ -27,6 +27,6 @@
 
 👯 I’m looking to collaborate on Research corporation...
 
-✨ Thristy for new project...
+
 
 
