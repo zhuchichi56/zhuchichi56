@@ -17,7 +17,7 @@
 
 ![Metrics](https://metrics.lecoq.io/zhuchichi56?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
  -->
-⚡ Set your course by the stars, not by the lights ofevery passing ship. --Omar N. Bradley
+⚡ Set your course by the stars, not by the lights of every passing ship. --Omar N. Bradley
 
 🌱 I am a second-year MPhil student at Peking University, having obtained my bachelor's degree from SUSTech.
 
