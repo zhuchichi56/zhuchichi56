@@ -1,0 +1,12 @@
+{
+  "name": "he-zhu-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "usage:preview": "node scripts/usage.mjs",
+    "usage:publish": "node scripts/publish.mjs",
+    "test": "node --test scripts/usage.test.mjs"
+  },
+  "dependencies": { "@vibe-cafe/vibe-usage": "0.14.3" },
+  "engines": { "node": ">=22" }
+}
