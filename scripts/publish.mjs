@@ -5,7 +5,7 @@ import {ROOT,generate} from './usage.mjs';
 
 // Publication is explicit: preview mode never pushes local usage.
 if(!process.argv.includes('--publish'))throw new Error('Review npm run usage:preview first. Publish with npm run usage:publish -- --publish.');
-const git=(...args)=>execFileSync('git',args,{cwd:ROOT,encoding:'utf8'}).trim();
+const git=(...args)=>execFileSync('git',['-c','http.version=HTTP/1.1','-c','http.lowSpeedLimit=1','-c','http.lowSpeedTime=30',...args],{cwd:ROOT,encoding:'utf8',timeout:45000}).trim();
 const status=git('status','--porcelain');
 if(status)throw new Error('Commit existing changes before publishing usage.');
 if(git('branch','--show-current')!=='main')throw new Error('Usage publishing requires the main branch.');
